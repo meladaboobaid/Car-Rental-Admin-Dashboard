@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Car Rental Dashboard Business Layer/Car Rental Dashboard Business Layer.csproj" />
+  <Project Path="../Car Rental Dashboard Data Access Layer/Car Rental Dashboard Data Access Layer.csproj" />
+  <Project Path="Car Rental Dashboard Server.csproj" />
+</Solution>
