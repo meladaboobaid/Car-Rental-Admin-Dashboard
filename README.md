@@ -2,6 +2,8 @@
 
 A car rental management dashboard built with .NET 8 WinForms as the client and ASP.NET Core as the backend API.
 
+>This project is a demonstration and learning prototype — not a production-ready application. It was built to practice full-stack development concepts including secure API integration, authentication flows, and Windows Forms UI design.
+
 ## Functionality
 
 The application provides an admin panel for:
